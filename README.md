@@ -8,13 +8,16 @@ My secondary goal is to teach programming and applications to all people who asp
 * [Programming for Science Tutorials](https://www.youtube.com/channel/UCN7ERDQrytJkABbrbRKoFDg)
 * [Bioinformatics on Instagram](https://www.instagram.com/sclab.sci)
 
-I'm fluent in Python and R languages. But I also have experience with C++, Java, Javascript and Matlab.
+I'm fluent in Python and R languages. But I also have experience with C++, Matlab, Java, Javascript, Django and HTML/CSS.
 
 :briefcase: [My LinkedIn](https://www.linkedin.com/in/guilherme-taborda-ribas-b327834b/)
 
 <!--
 **guilhermetabordaribas/guilhermetabordaribas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+
+I also wrote a book about Python and technical analysis for stock exchange. Please, take a look at the [Book](https://clubedeautores.com.br/livro/python-e-analise-tecnica-para-bolsa-de-valores)
+
 Here are some ideas to get you started:
 👋
 - 🔭 I’m currently working on ...
