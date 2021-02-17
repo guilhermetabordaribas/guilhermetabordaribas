@@ -1,4 +1,4 @@
-### Hi there, I'm Guilherme 👋
+### Hi there, I'm Guilherme 👋 :man_technologist::dna:
 
 My main focus now is to develop softwares and workflows to help improve the Bioinformatics area, as well as to bring relevant answers using machine learning applied to molecular biology and health.
 
