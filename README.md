@@ -10,7 +10,7 @@ My secondary goal is to teach programming and applications to all people who asp
 
 I'm fluent in Python and R languages. But I also have experience with C++, Java, Javascript and Matlab.
 
-[My LinkedIn](https://www.linkedin.com/in/guilherme-taborda-ribas-b327834b/):briefcase:
+:briefcase: [My LinkedIn](https://www.linkedin.com/in/guilherme-taborda-ribas-b327834b/)
 
 <!--
 **guilhermetabordaribas/guilhermetabordaribas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
