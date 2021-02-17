@@ -14,7 +14,7 @@ I'm fluent in Python and R languages. But I also have experience with C++, Java,
 
 <!--
 **guilhermetabordaribas/guilhermetabordaribas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
