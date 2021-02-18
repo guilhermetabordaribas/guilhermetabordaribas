@@ -8,7 +8,7 @@ My secondary goal is to teach programming and applications to all people who asp
 * [Programming for Science Tutorials](https://www.youtube.com/channel/UCN7ERDQrytJkABbrbRKoFDg)
 * [Bioinformatics on Instagram](https://www.instagram.com/sclab.sci)
 
-I'm fluent in Python and R languages. But I also have experience with C++, Matlab, Java, Javascript, Django and HTML/CSS.
+I'm fluent in Python and R languages. But I also have experience with C++, Matlab, Java, Javascript, MySQL, Django and HTML/CSS.
 
 :briefcase: [My LinkedIn](https://www.linkedin.com/in/guilherme-taborda-ribas-b327834b/)
 
