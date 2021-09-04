@@ -4,7 +4,7 @@ My main focus now is to develop softwares and workflows to help improve the Bioi
 
 My secondary goal is to teach programming and applications to all people who aspire to become developers. That's why I keep some free video tutorials about programming for science and finance on YouTube and some posts on Instagram. I also wrote a book about Python and Technical Analysis for Stock Market.
 
-* [Python and Stock Market Analysis](https://clubedeautores.com.br/livro/python-e-analise-tecnica-para-bolsa-de-valores)
+* [Book Python and Stock Market Analysis](https://clubedeautores.com.br/livro/python-e-analise-tecnica-para-bolsa-de-valores)
 * [Programming for Finance Tutorials](https://www.youtube.com/channel/UCX9926NagPLxyUcSkqDhE_g)
 * [Programming for Science Tutorials](https://www.youtube.com/channel/UCN7ERDQrytJkABbrbRKoFDg)
 * [Bioinformatics on Instagram](https://www.instagram.com/sclab.sci)
