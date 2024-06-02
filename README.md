@@ -12,7 +12,8 @@ My secondary goal is to teach programming and applications to all people who asp
 I'm fluent in Python and R languages. But I also have experience with C++, Matlab, Java, Javascript, MySQL, Django and HTML/CSS.
 
 :briefcase: [My LinkedIn](https://www.linkedin.com/in/guilherme-taborda-ribas-b327834b/)
-:briefcase: [ORCID](https://orcid.org/0000-0002-9752-4411)
+
+:briefcase: [My ORCID](https://orcid.org/0000-0002-9752-4411)
 
 <!--
 **guilhermetabordaribas/guilhermetabordaribas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
