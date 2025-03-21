@@ -1,6 +1,9 @@
 ### Hi there, I'm Guilherme :man_technologist::dna:
 
-My main focus now is to develop softwares and workflows to help improve the Bioinformatics area, as well as to bring relevant answers using machine learning applied to molecular biology and health.
+My main focus now is to develop softwares and workflows to help improve the Bioinformatics area, as well as to bring relevant answers using machine learning applied to molecular biology and health. Here you can find some of my coding work, e.g.:
+* [a2iHelperPy](https://www.biorxiv.org/content/10.1101/2024.10.15.618547v1): To analyze RNA-editing, especially the replacement of Adenine-to-Inosine [code](https://github.com/guilhermetabordaribas/a2iHelperPy).
+* [housekeepingMinerPy](https://doi.org/10.7910/DVN/PD7KY7): To analyze RNA-editing, especially the replacement of Adenine-to-Inosine [code](https://github.com/guilhermetabordaribas/housekeepingMinerPy).
+
 
 My secondary goal is to teach programming and applications to all people who aspire to become developers. That's why I keep some free video tutorials about programming for science and finance on YouTube and some posts on Instagram. I also wrote a book about Python and Technical Analysis for Stock Market.
 
